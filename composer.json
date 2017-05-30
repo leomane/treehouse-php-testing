@@ -1,0 +1,13 @@
+{
+    "name": "leo/treehouse-php-testing",
+    "description": "Learning PHP Testing",
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "authors": [
+        {
+            "name": "Anthony Leo",
+            "email": "ay6254@wayne.edu"
+        }
+    ]
+}
